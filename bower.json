@@ -1,6 +1,6 @@
 {
   "name": "backend.auth.design",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Design for backend auth form",
   "main": [
 		"dist/css/auth.css",
