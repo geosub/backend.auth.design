@@ -1,0 +1,14 @@
+{
+  "name": "backend.auth.design",
+  "version": "0.0.1",
+  "description": "Design for backend auth form",
+  "main": "css/auth.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
