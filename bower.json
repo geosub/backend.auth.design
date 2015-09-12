@@ -1,8 +1,11 @@
 {
   "name": "backend.auth.design",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Design for backend auth form",
-  "main": "css/auth.css",
+  "main": [
+		"dist/css/auth.css",
+		"dist/less/auth.css"
+	],
   "license": "MIT",
   "ignore": [
     "**/.*",
